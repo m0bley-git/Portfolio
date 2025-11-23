@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: white;
+    color: white;
+    text-align: left;
+}
+.accueil {
+       height: 100vh;
+    background-image: url(Images/image_accueil.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 20px;
+
+}
+
+.titre {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+.texte {
+    color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.bas {
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    height: 90px;
+}
+
+.bas img {
+
+    width: 40px;
+    height: auto;
+}
