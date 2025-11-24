@@ -13,7 +13,7 @@ body {
 }
 .accueil {
        height: 100vh;
-    background-image: url(Images/image_accueil.jpg);
+    background-image: url(/Images/image_accueil.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -34,15 +34,7 @@ body {
     color: white;
     text-decoration: none;
 }
-
-.retour {
-    position: absolute;
-    top: 15px;
-    left: 5px;
-    color: white;
-    text-decoration: none;
     
-}
 
 .portfolio {
     position: absolute;
