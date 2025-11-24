@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+
+body {
+    background-color: white;
+    color: white;
+    text-align: left;
+}
+.accueil {
+       height: 100vh;
+    background-image: url(/Images/image_accueil.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 20px;
+
+}
+
+.a_pr {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    border: 2px solid;
+    text-align: center;
+    border-radius: 10px;
+    width: 140px;
+    height: 30px;
+    background-color: transparent;
+    color: white;
+    text-decoration: none;
+}
+    
+
+.portfolio {
+    position: absolute;
+    top: 15px;
+    right: 180px;
+    border: 2px solid;
+    text-align: center;
+    border-radius: 10px;
+    width: 140px;
+    height: 30px;
+    background-color: transparent;
+    color: white;
+    text-decoration: none;
+}
+
